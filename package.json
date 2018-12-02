@@ -1,0 +1,15 @@
+{
+  "name": "wigly-styled",
+  "version": "0.0.1",
+  "description": "Styled components for Wigly.",
+  "main": "index.js",
+  "author": "Evan M Jones <evanjones4040@gmail.com> (https://evanjon.es/)",
+  "license": "MIT",
+  "dependencies": {
+    "dom-tags": "^1.0.1",
+    "string-css": "0.0.2"
+  },
+  "peerDependencies": {
+    "wigly": "1.x"
+  }
+}
